@@ -1,0 +1,41 @@
+text,label
+"win a free prize now",spam
+"click here to claim your cash reward",spam
+"urgent! you have been selected for a special offer",spam
+"limited time only! buy now and get cash back",spam
+"free entry to a lucky draw for huge money",spam
+"you won a vacation and bonus points",spam
+"congratulations! your account is locked, verify now",spam
+"claim your exclusive reward immediately",spam
+"you are eligible for a bonus payout today",spam
+"act now and receive a free gift card",spam
+"your bank account needs verification to unlock funds",spam
+"click this link to claim your reward",spam
+"winner winner! your phone number is chosen",spam
+"final notice: pay a small fee to avoid account closure",spam
+"special promotion ends today, buy now",spam
+"you have been matched with a premium offer",spam
+"earn extra income working from home today",spam
+"limited chance to get free cash instantly",spam
+"claim your refund now before it expires",spam
+"redeem your voucher and save big today",spam
+"project meeting scheduled for tomorrow at 10 am",ham
+"can we review the report before Friday",ham
+"hello team, please share the meeting notes",ham
+"the invoice has been approved and sent",ham
+"let's catch up after work for coffee",ham
+"thank you for your email and support",ham
+"the workshop starts at 9 am next Monday",ham
+"please confirm the delivery schedule",ham
+"i am at the office and will call you later",ham
+"the product demo is set for Thursday afternoon",ham
+"please review the attached contract",ham
+"your payment has been successfully processed",ham
+"we will discuss the proposal in the afternoon",ham
+"the shipment is on schedule for delivery",ham
+"please send the updated file by 4 pm",ham
+"the client meeting has been moved to Tuesday",ham
+"thanks for the quick reply and cooperation",ham
+"team lunch is planned for Wednesday noon",ham
+"the design review is scheduled for next week",ham
+"I will send the invoice after approval",ham
