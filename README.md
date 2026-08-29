@@ -29,25 +29,6 @@ This project demonstrates a machine learning-based spam detection system for ema
 - View the predicted class and confidence score
 - Review recent detections stored in SQLite
 
-## Model
-
-This project uses:
-
-- TF-IDF vectorizer
-- Logistic Regression classifier
-
-The model is saved in the `models/` folder after training.
-
-Quick start on Windows
-
-- Use the provided helper script to create a virtual environment, install deps and run the app:
-
-```
-run.bat
-```
-
-- Or follow the manual steps in the Setup section (create venv, pip install -r requirements.txt, then `streamlit run app.py`).
-
 ## Development phases
 
 ### Phase 1 — Project Setup
