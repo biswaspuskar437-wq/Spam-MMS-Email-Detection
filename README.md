@@ -20,26 +20,7 @@ This project demonstrates a machine learning-based spam detection system for ema
 - `data/spam_data.csv` - Sample training data
 - `models/` - Saved model artifacts
 
-## Setup
 
-1. Create a virtual environment (optional but recommended)
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Train the model:
-
-```bash
-python train_model.py
-```
-
-4. Run the dashboard:
-
-```bash
-streamlit run app.py
-```
 
 ## Usage
 
